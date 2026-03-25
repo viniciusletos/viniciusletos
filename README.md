@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusletos&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-SoftwareEngineer&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusletos&layout=compact&langs_count=8&theme=nord"/>
 </p>
 
 <br>
