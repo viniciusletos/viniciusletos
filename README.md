@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius%21;Estudante+de+Engenharia+de+Software;Backend+%26+Frontend+Developer;Java+%7C+Spring+%7C+Node.js" alt="Animação de 'digitando' com o texto: Olá, eu sou Vinicius!, Estudante de Engenharia de Software, Backend & Frontend Developer, Java | Spring | Node.js" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius%21;Estudante+de+Engenharia+de+Software;Full+Stack+Developer;Java+%7C+Spring+%7C+Node.js" alt="Animação de 'digitando'" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusletos&style=for-the-badge&color=00BFFF" alt="Contador de visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=viniciusletos&style=for-the-badge&color=00BFFF" alt="Contador de visualizações" />
 </p>
+
+> ⚠️ **Nota:** Esta é minha nova conta oficial. Você pode conferir meus projetos antigos e histórico em: [@Vinicius-SoftwareEngineer](https://github.com/Vinicius-SoftwareEngineer) (acesso perdido).
 
 <br>
 
@@ -57,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusletos&theme=nord&hide_border=true&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF" alt="Gráfico de atividade do GitHub" />
+    <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusletos&theme=nord&hide_border=true&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF" alt="Gráfico de atividade" />
   </a>
 </p>
 
@@ -69,9 +71,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-rafael-76b610284" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/viniciusletos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
