@@ -17,8 +17,8 @@
 ## 📊 Minhas Atividades e Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusletos&show_icons=true&theme=nord"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusletos&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=viniciusletos&show_icons=true&theme=nord" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusletos&layout=compact&langs_count=8&theme=nord" />
 </p>
 
 <br>
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
 </p>
@@ -58,9 +58,7 @@
 ## 📈 Gráfico de Atividade Recente
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusletos&theme=nord&hide_border=true&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF" alt="Gráfico de atividade" />
-  </a>
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusletos&theme=nord&hide_border=true&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF" alt="Gráfico de atividade" />
 </p>
 
 <br>
